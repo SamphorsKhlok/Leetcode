@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamphorsKhlok/Leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamphorsKhlok/Leetcode/issues"
+  },
+  "homepage": "https://github.com/SamphorsKhlok/Leetcode#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
