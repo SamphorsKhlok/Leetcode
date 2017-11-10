@@ -7,18 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71260e29-c460-4fdb-a432-b885d236f12a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AddTwoSum/AddTwoSum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AddTwoSum/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Longest Palindromic Substring/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LongestSubstring/longestSubstring.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LongestSubstring/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Median Two Arrays/medianTwoArrays.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MochaTestTemplate/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Palindrome Number/Palindrome Number.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Reverse Integer/Reverse Integer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -52,12 +41,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Longest Palindromic Substring.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Longest Palindromic Substring.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1562">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="144">
+                <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -133,6 +135,7 @@
         <option value="$PROJECT_DIR$/LongestSubstring/longestSubstring.js" />
         <option value="$PROJECT_DIR$/LongestSubstring/test.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -350,7 +353,7 @@
       <workItem from="1510277484336" duration="38000" />
       <workItem from="1510277544193" duration="155000" />
       <workItem from="1510277726724" duration="731000" />
-      <workItem from="1510278483157" duration="304000" />
+      <workItem from="1510278483157" duration="562000" />
     </task>
     <servers />
   </component>
@@ -387,7 +390,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93372000" />
+    <option name="totallyTimeSpent" value="93630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -564,6 +567,17 @@
         <state relative-caret-position="-1562">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
