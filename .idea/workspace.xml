@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoTestManager">
-    <enabled-run-configurations>
-      <run-configuration type="mocha-javascript-test-runner" name="addTwoSum/test.js" />
-    </enabled-run-configurations>
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="71260e29-c460-4fdb-a432-b885d236f12a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Longest Common Prefix/LongestCommonPrefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Longest Common Prefix/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Regular Expression Matching/RegularExpressionMatching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Regular Expression Matching/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/USPhoneNo/PhoneNoNormalizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/USPhoneNo/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.js" afterPath="$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Longest Palindromic Substring/test.js" afterPath="$PROJECT_DIR$/Longest Palindromic Substring/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MochaTestTemplate/test.js" afterPath="$PROJECT_DIR$/MochaTestTemplate/test.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,83 +25,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Longest Palindromic Substring/test.js">
+        <entry file="file://$PROJECT_DIR$/Longest Common Prefix/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Longest Palindromic Substring.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.js">
+      <file leaf-file-name="LongestCommonPrefix.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Longest Common Prefix/LongestCommonPrefix.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1562">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="127">
+              <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="144">
-                <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AddTwoSum.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AddTwoSum/AddTwoSum.js">
+      <file leaf-file-name="PhoneNoNormalizer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/USPhoneNo/PhoneNoNormalizer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="79" column="27" lean-forward="true" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
-              <folding>
-                <marker date="1510262410000" expanded="false" signature="0:392" ph="//..." />
-                <marker date="1510262410000" expanded="true" signature="394:520" ph="/** Definition for singly-linked list. ...*/" />
-                <marker date="1510262410000" expanded="true" signature="521:598" ph="/** @param {ListNode} l1 ...*/" />
-                <marker date="1510262410000" expanded="true" signature="617:652" ph="{&quot;ListNode&quot;: ListNode...}" />
-                <marker date="1510262410000" expanded="true" signature="653:1385" ph="//..." />
-                <marker date="1510262410000" expanded="true" signature="1410:1455" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="1497:1769" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="1595:1635" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="1639:1767" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="1672:1727" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="1809:2077" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="1880:2004" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="2009:2058" ph="//..." />
-                <marker date="1510262410000" expanded="true" signature="2080:2212" ph="//..." />
-                <marker date="1510262410000" expanded="true" signature="2261:3185" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="2336:2604" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="2406:2488" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="2492:2553" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="2619:2856" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="2680:2762" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="2766:2827" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="2871:3108" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="2932:3014" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="3018:3079" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="3128:3159" ph="{...}" />
-                <marker date="1510262410000" expanded="true" signature="3188:3239" ph="//..." />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -136,6 +91,15 @@
         <option value="$PROJECT_DIR$/LongestSubstring/test.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.js" />
+        <option value="$PROJECT_DIR$/Longest Palindromic Substring/test.js" />
+        <option value="$PROJECT_DIR$/MochaTestTemplate/test.js" />
+        <option value="$PROJECT_DIR$/Regular Expression Matching/test.js" />
+        <option value="$PROJECT_DIR$/Regular Expression Matching/RegularExpressionMatching.js" />
+        <option value="$PROJECT_DIR$/USPhoneNo/test.js" />
+        <option value="$PROJECT_DIR$/USPhoneNo/PhoneNoNormalizer.js" />
+        <option value="$PROJECT_DIR$/Longest Common Prefix/test.js" />
+        <option value="$PROJECT_DIR$/Longest Common Prefix/LongestCommonPrefix.js" />
       </list>
     </option>
   </component>
@@ -156,9 +120,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="797" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -177,7 +140,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,16 +150,17 @@
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Longest Palindromic Substring" type="462c0819:PsiDirectoryNode" />
+              <item name="Longest Common Prefix" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="JavaScriptPreferStrict" value="false" />
@@ -217,20 +180,24 @@
     <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.selected.package.jscs" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Longest Common Prefix" />
+      <recent name="$PROJECT_DIR$/USPhoneNo" />
+      <recent name="$PROJECT_DIR$/Regular Expression Matching" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Longest Palindromic Substring" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Reverse Integer" />
       <recent name="$PROJECT_DIR$/Palindrome Number" />
       <recent name="$PROJECT_DIR$/Median Two Arrays" />
       <recent name="$PROJECT_DIR$/Longest Palindromic Substring" />
       <recent name="$PROJECT_DIR$/LongestSubstring" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Longest Palindromic Substring" />
-      <recent name="$PROJECT_DIR$/LongestSubstring" />
-      <recent name="$PROJECT_DIR$/addTwoSum" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -245,8 +212,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.AddTwoSum/test.js">
-    <configuration name="AddTwoSum/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Node.js.LongestCommonPrefix.js">
+    <configuration name="Longest Common Prefix/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$</working-directory>
@@ -255,30 +222,9 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/AddTwoSum/test.js</test-file>
+      <test-file>$PROJECT_DIR$/Longest Common Prefix/test.js</test-file>
     </configuration>
-    <configuration name="LongestSubstring/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/LongestSubstring/test.js</test-file>
-    </configuration>
-    <configuration name="MochaTestTemplate/TestTemplete.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/MochaTestTemplate/TestTemplete.js</test-file>
-    </configuration>
+    <configuration name="LongestCommonPrefix.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="LongestCommonPrefix.js" working-dir="$PROJECT_DIR$/Longest Common Prefix" />
     <configuration name="Palindrome Number.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="$PROJECT_DIR$/Palindrome Number/Palindrome Number.js" working-dir="$PROJECT_DIR$">
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -302,8 +248,7 @@
         </option>
       </EXTENSION>
     </configuration>
-    <configuration name="Tester.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Tester.js" working-dir="$PROJECT_DIR$/AddTwoSum" />
-    <configuration name="addTwoSum/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+    <configuration name="Regular Expression Matching/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <working-directory>$PROJECT_DIR$</working-directory>
@@ -312,23 +257,35 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/addTwoSum/test.js</test-file>
+      <test-file>$PROJECT_DIR$/Regular Expression Matching/test.js</test-file>
+    </configuration>
+    <configuration name="RegularExpressionMatching.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RegularExpressionMatching.js" working-dir="$PROJECT_DIR$/Regular Expression Matching" />
+    <configuration name="USPhoneNo/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/USPhoneNo/test.js</test-file>
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Palindrome Number.js" />
-      <item index="1" class="java.lang.String" itemvalue="Mocha.addTwoSum/test.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Tester.js" />
-      <item index="3" class="java.lang.String" itemvalue="Mocha.MochaTestTemplate/TestTemplete.js" />
-      <item index="4" class="java.lang.String" itemvalue="Mocha.LongestSubstring/test.js" />
-      <item index="5" class="java.lang.String" itemvalue="Mocha.AddTwoSum/test.js" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.Regular Expression Matching/test.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.RegularExpressionMatching.js" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.USPhoneNo/test.js" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.Longest Common Prefix/test.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.LongestCommonPrefix.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Mocha.AddTwoSum/test.js" />
-        <item index="1" class="java.lang.String" itemvalue="Mocha.LongestSubstring/test.js" />
-        <item index="2" class="java.lang.String" itemvalue="Mocha.addTwoSum/test.js" />
-        <item index="3" class="java.lang.String" itemvalue="Mocha.MochaTestTemplate/TestTemplete.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Tester.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.LongestCommonPrefix.js" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.Longest Common Prefix/test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.USPhoneNo/test.js" />
+        <item index="3" class="java.lang.String" itemvalue="Mocha.Regular Expression Matching/test.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.RegularExpressionMatching.js" />
       </list>
     </recent_temporary>
   </component>
@@ -353,65 +310,68 @@
       <workItem from="1510277484336" duration="38000" />
       <workItem from="1510277544193" duration="155000" />
       <workItem from="1510277726724" duration="731000" />
-      <workItem from="1510278483157" duration="562000" />
+      <workItem from="1510278483157" duration="2093000" />
+      <workItem from="1510517604418" duration="4475000" />
+      <workItem from="1510634079013" duration="321000" />
+      <workItem from="1510699616243" duration="1822000" />
+      <workItem from="1510805353384" duration="3891000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddTwoSum_test_js - 2017.11.09 at 19h 52m 36s.xml">
-      <configuration name="AddTwoSum/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Longest_Common_Prefix_test_js - 2017.11.15 at 22h 53m 03s.xml">
+      <configuration name="Longest Common Prefix/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="LongestSubstring_test_js - 2017.11.09 at 15h 54m 23s.xml">
-      <configuration name="LongestSubstring/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Longest_Common_Prefix_test_js - 2017.11.15 at 22h 53m 16s.xml">
+      <configuration name="Longest Common Prefix/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="LongestSubstring_test_js - 2017.11.09 at 15h 55m 26s.xml">
-      <configuration name="LongestSubstring/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Longest_Common_Prefix_test_js - 2017.11.15 at 22h 53m 48s.xml">
+      <configuration name="Longest Common Prefix/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="LongestSubstring_test_js - 2017.11.09 at 15h 58m 38s.xml">
-      <configuration name="LongestSubstring/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Longest_Common_Prefix_test_js - 2017.11.15 at 22h 56m 20s.xml">
+      <configuration name="Longest Common Prefix/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="LongestSubstring_test_js - 2017.11.09 at 15h 59m 14s.xml">
-      <configuration name="LongestSubstring/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Longest_Common_Prefix_test_js - 2017.11.15 at 22h 56m 23s.xml">
+      <configuration name="Longest Common Prefix/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="LongestSubstring_test_js - 2017.11.09 at 16h 00m 12s.xml">
-      <configuration name="LongestSubstring/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Longest_Common_Prefix_test_js - 2017.11.15 at 22h 58m 20s.xml">
+      <configuration name="Longest Common Prefix/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="LongestSubstring_test_js - 2017.11.09 at 16h 01m 03s.xml">
-      <configuration name="LongestSubstring/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Longest_Common_Prefix_test_js - 2017.11.15 at 23h 01m 04s.xml">
+      <configuration name="Longest Common Prefix/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="LongestSubstring_test_js - 2017.11.09 at 16h 01m 34s.xml">
-      <configuration name="LongestSubstring/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Longest_Common_Prefix_test_js - 2017.11.15 at 23h 11m 14s.xml">
+      <configuration name="Longest Common Prefix/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="LongestSubstring_test_js - 2017.11.09 at 16h 01m 44s.xml">
-      <configuration name="LongestSubstring/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Longest_Common_Prefix_test_js - 2017.11.15 at 23h 14m 33s.xml">
+      <configuration name="Longest Common Prefix/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="LongestSubstring_test_js - 2017.11.09 at 16h 01m 55s.xml">
-      <configuration name="LongestSubstring/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="Longest_Common_Prefix_test_js - 2017.11.15 at 23h 16m 30s.xml">
+      <configuration name="Longest Common Prefix/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93630000" />
+    <option name="totallyTimeSpent" value="105670000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28899637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28899637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38746437" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48005697" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38694075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34945586" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44498187" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="V8 CPU Profiling" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6142684" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -450,16 +410,20 @@
           <line>58</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Regular Expression Matching/RegularExpressionMatching.js</url>
+          <line>23</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="33" />
+      <option name="time" value="37" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
-        <watch expression="tempMax" language="JavaScript" />
         <watch expression="i" />
-        <watch expression="max" />
-        <watch expression="right" />
-        <watch expression="left" />
+      </configuration>
+      <configuration name="mocha-javascript-test-runner">
+        <watch expression="i" />
       </configuration>
     </watches-manager>
   </component>
@@ -499,85 +463,126 @@
     <entry file="file://$PROJECT_DIR$/Palindrome Number/Palindrome Number.js" />
     <entry file="file://$PROJECT_DIR$/stupid.js" />
     <entry file="file://$PROJECT_DIR$/addTwoSum/Tester.js" />
-    <entry file="file://$PROJECT_DIR$/LongestSubstring/longestSubstring.js" />
-    <entry file="file://$PROJECT_DIR$/LongestSubstring/test.js" />
-    <entry file="file://$PROJECT_DIR$/MochaTestTemplate/test.js" />
     <entry file="file://$PROJECT_DIR$/package-lock.json" />
-    <entry file="file://$PROJECT_DIR$/AddTwoSum/AddTwoSum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="79" column="27" lean-forward="true" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
-          <folding>
-            <marker date="1510262410000" expanded="false" signature="0:392" ph="//..." />
-            <marker date="1510262410000" expanded="true" signature="394:520" ph="/** Definition for singly-linked list. ...*/" />
-            <marker date="1510262410000" expanded="true" signature="521:598" ph="/** @param {ListNode} l1 ...*/" />
-            <marker date="1510262410000" expanded="true" signature="617:652" ph="{&quot;ListNode&quot;: ListNode...}" />
-            <marker date="1510262410000" expanded="true" signature="653:1385" ph="//..." />
-            <marker date="1510262410000" expanded="true" signature="1410:1455" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="1497:1769" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="1595:1635" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="1639:1767" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="1672:1727" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="1809:2077" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="1880:2004" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="2009:2058" ph="//..." />
-            <marker date="1510262410000" expanded="true" signature="2080:2212" ph="//..." />
-            <marker date="1510262410000" expanded="true" signature="2261:3185" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="2336:2604" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="2406:2488" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="2492:2553" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="2619:2856" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="2680:2762" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="2766:2827" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="2871:3108" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="2932:3014" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="3018:3079" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="3128:3159" ph="{...}" />
-            <marker date="1510262410000" expanded="true" signature="3188:3239" ph="//..." />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AddTwoSum/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="360">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/MochaTestTemplate/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="54">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regular Expression Matching/RegularExpressionMatching.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regular Expression Matching/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Longest Palindromic Substring/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1562">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/AddTwoSum/AddTwoSum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="79" column="27" lean-forward="true" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LongestSubstring/longestSubstring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LongestSubstring/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USPhoneNo/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USPhoneNo/PhoneNoNormalizer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest Common Prefix/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest Common Prefix/LongestCommonPrefix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>

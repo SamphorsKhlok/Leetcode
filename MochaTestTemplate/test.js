@@ -1,4 +1,5 @@
 var assert = require('assert');
+var {} =  require("./");
 
 function add() {
     return Array.prototype.slice.call(arguments).reduce(function(prev, curr) {
