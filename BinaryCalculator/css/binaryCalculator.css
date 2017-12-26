@@ -1,0 +1,40 @@
+body{
+    width: 33%;
+}
+.res {
+    background-color: lightgray;
+    border: solid;
+    height: 48px;
+    font-size: 20px;
+}
+
+.buttonContainer {
+    width: 100%;
+}
+
+.buttonContainer > .buttonClass {
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
+}
+
+.buttonContainer > .buttonResult{
+    background-color: darkgreen;
+    color: white;
+}
+
+.buttonContainer > .buttonOperator{
+    background-color: black;
+    color: red;
+}
+
+.buttonContainer > .buttonDigit{
+    background-color: lightgreen;
+    color: brown;
+}
+
+
+
+
