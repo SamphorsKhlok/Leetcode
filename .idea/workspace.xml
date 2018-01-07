@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71260e29-c460-4fdb-a432-b885d236f12a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Insert Interval/InsertInterval.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Insert Interval/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/128. Longest Consecutive Sequence/LongestConsecutiveSequence.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/128. Longest Consecutive Sequence/test.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/3Sum/3Sum.js" afterPath="$PROJECT_DIR$/3Sum/3Sum.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,28 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Insert Interval/test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="57" lean-forward="true" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InsertInterval.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Insert Interval/InsertInterval.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,6 +85,8 @@
         <option value="$PROJECT_DIR$/MochaTestTemplate/test.js" />
         <option value="$PROJECT_DIR$/Insert Interval/InsertInterval.js" />
         <option value="$PROJECT_DIR$/Insert Interval/test.js" />
+        <option value="$PROJECT_DIR$/128. Longest Consecutive Sequence/test.js" />
+        <option value="$PROJECT_DIR$/128. Longest Consecutive Sequence/LongestConsecutiveSequence.js" />
       </list>
     </option>
   </component>
@@ -126,9 +106,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="812" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -146,8 +125,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,17 +135,14 @@
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="Insert Interval" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="MochaTestTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="128. Longest Consecutive Sequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,19 +171,19 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Insert Interval" />
-      <recent name="$PROJECT_DIR$/3Sum" />
-      <recent name="$PROJECT_DIR$/BinaryCalculator" />
-      <recent name="$PROJECT_DIR$/Divide2Integers" />
-      <recent name="$PROJECT_DIR$/10ButtonContainer/js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/RegExp" />
       <recent name="$PROJECT_DIR$/Reverse Integer" />
       <recent name="$PROJECT_DIR$/Palindrome Number" />
       <recent name="$PROJECT_DIR$/Median Two Arrays" />
       <recent name="$PROJECT_DIR$/Longest Palindromic Substring" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/128. Longest Consecutive Sequence" />
+      <recent name="$PROJECT_DIR$/Insert Interval" />
+      <recent name="$PROJECT_DIR$/3Sum" />
+      <recent name="$PROJECT_DIR$/BinaryCalculator" />
+      <recent name="$PROJECT_DIR$/Divide2Integers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -224,10 +198,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.Insert Interval/test.js">
+  <component name="RunManager" selected="Mocha.128. Longest Consecutive Sequence/test.js">
     <configuration name="3Sum.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="3Sum.js" working-dir="$PROJECT_DIR$/3Sum" />
     <configuration name="Palindrome Number.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="$PROJECT_DIR$/Palindrome Number/Palindrome Number.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/RegExp/GetAllDigit.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="128. Longest Consecutive Sequence/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/128. Longest Consecutive Sequence/test.js</test-file>
+    </configuration>
     <configuration name="3Sum/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -263,19 +247,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Palindrome Number.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="2" class="java.lang.String" itemvalue="Mocha.Divide2Integers/test.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.3Sum.js" />
-      <item index="4" class="java.lang.String" itemvalue="Mocha.3Sum/test.js" />
-      <item index="5" class="java.lang.String" itemvalue="Mocha.Insert Interval/test.js" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.Divide2Integers/test.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.3Sum.js" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.3Sum/test.js" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.Insert Interval/test.js" />
+      <item index="5" class="java.lang.String" itemvalue="Mocha.128. Longest Consecutive Sequence/test.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Mocha.Insert Interval/test.js" />
-        <item index="1" class="java.lang.String" itemvalue="Mocha.3Sum/test.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.3Sum.js" />
-        <item index="3" class="java.lang.String" itemvalue="Mocha.Divide2Integers/test.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="0" class="java.lang.String" itemvalue="Mocha.128. Longest Consecutive Sequence/test.js" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.Insert Interval/test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.3Sum/test.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.3Sum.js" />
+        <item index="4" class="java.lang.String" itemvalue="Mocha.Divide2Integers/test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -313,50 +297,51 @@
       <workItem from="1513981585466" duration="1678000" />
       <workItem from="1514260335328" duration="7388000" />
       <workItem from="1514442445579" duration="5055000" />
-      <workItem from="1514689905443" duration="10905000" />
+      <workItem from="1514689905443" duration="11115000" />
+      <workItem from="1515019100596" duration="323000" />
+      <workItem from="1515354556992" duration="2441000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Insert_Interval_test_js - 2017.12.31 at 03h 22m 07s.xml">
-      <configuration name="Insert Interval/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="128__Longest_Consecutive_Sequence_test_js - 2018.01.07 at 14h 19m 36s.xml">
+      <configuration name="128. Longest Consecutive Sequence/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Insert_Interval_test_js - 2017.12.31 at 03h 22m 42s.xml">
-      <configuration name="Insert Interval/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="128__Longest_Consecutive_Sequence_test_js - 2018.01.07 at 14h 24m 06s.xml">
+      <configuration name="128. Longest Consecutive Sequence/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Insert_Interval_test_js - 2017.12.31 at 03h 24m 56s.xml">
-      <configuration name="Insert Interval/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="128__Longest_Consecutive_Sequence_test_js - 2018.01.07 at 14h 24m 32s.xml">
+      <configuration name="128. Longest Consecutive Sequence/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Insert_Interval_test_js - 2017.12.31 at 03h 25m 29s.xml">
-      <configuration name="Insert Interval/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="128__Longest_Consecutive_Sequence_test_js - 2018.01.07 at 14h 26m 20s.xml">
+      <configuration name="128. Longest Consecutive Sequence/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Insert_Interval_test_js - 2017.12.31 at 03h 25m 43s.xml">
-      <configuration name="Insert Interval/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="128__Longest_Consecutive_Sequence_test_js - 2018.01.07 at 14h 26m 35s.xml">
+      <configuration name="128. Longest Consecutive Sequence/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Insert_Interval_test_js - 2017.12.31 at 03h 26m 36s.xml">
-      <configuration name="Insert Interval/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="128__Longest_Consecutive_Sequence_test_js - 2018.01.07 at 14h 26m 46s.xml">
+      <configuration name="128. Longest Consecutive Sequence/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Insert_Interval_test_js - 2017.12.31 at 03h 27m 39s.xml">
-      <configuration name="Insert Interval/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="128__Longest_Consecutive_Sequence_test_js - 2018.01.07 at 14h 28m 36s.xml">
+      <configuration name="128. Longest Consecutive Sequence/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Insert_Interval_test_js - 2017.12.31 at 03h 28m 30s.xml">
-      <configuration name="Insert Interval/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="128__Longest_Consecutive_Sequence_test_js - 2018.01.07 at 14h 29m 57s.xml">
+      <configuration name="128. Longest Consecutive Sequence/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Insert_Interval_test_js - 2017.12.31 at 03h 33m 36s.xml">
-      <configuration name="Insert Interval/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="128__Longest_Consecutive_Sequence_test_js - 2018.01.07 at 14h 32m 16s.xml">
+      <configuration name="128. Longest Consecutive Sequence/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="Insert_Interval_test_js - 2017.12.31 at 03h 34m 01s.xml">
-      <configuration name="Insert Interval/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="128__Longest_Consecutive_Sequence_test_js - 2018.01.07 at 14h 33m 56s.xml">
+      <configuration name="128. Longest Consecutive Sequence/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135154000" />
+    <option name="totallyTimeSpent" value="138128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -429,8 +414,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Longest Palindromic Substring/Longest Palindromic Substring.js" />
-    <entry file="file://$PROJECT_DIR$/AddTwoSum/test.js" />
     <entry file="file://$PROJECT_DIR$/MochaTestTemplate/test.js" />
     <entry file="file://$PROJECT_DIR$/LongestSubstring/test.js" />
     <entry file="file://$PROJECT_DIR$/LongestSubstring/longestSubstring.js" />
@@ -627,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="67" column="31" lean-forward="false" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2201">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,7 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-624">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,22 +646,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Insert Interval/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Insert Interval/InsertInterval.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        <state relative-caret-position="510">
+          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Insert Interval/test.js">
+    <entry file="file://$PROJECT_DIR$/128. Longest Consecutive Sequence/LongestConsecutiveSequence.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="57" lean-forward="true" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        <state relative-caret-position="253">
+          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/128. Longest Consecutive Sequence/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>
