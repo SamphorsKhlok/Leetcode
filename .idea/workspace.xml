@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71260e29-c460-4fdb-a432-b885d236f12a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/27. Remove Element/RemoveElement.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/27. Remove Element/test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/557. Reverse Words in a String III/ReverseWords.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/557. Reverse Words in a String III/test.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -50,11 +50,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/27. Remove Element/test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
               <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseWords.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/557. Reverse Words in a String III/ReverseWords.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-108">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/557. Reverse Words in a String III/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -97,8 +119,8 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="HTTP Request" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -120,8 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/addTwoSum/Tester.js" />
-        <option value="$PROJECT_DIR$/addTwoSum/Test.js" />
         <option value="$PROJECT_DIR$/addTwoSum/AddTwoSum.js" />
         <option value="$PROJECT_DIR$/addTwoSum/test.js" />
         <option value="$PROJECT_DIR$/MochaTestTemplate/TestTemplete.js" />
@@ -171,6 +191,8 @@
         <option value="$PROJECT_DIR$/27. Remove Element/api.http" />
         <option value="$PROJECT_DIR$/27. Remove Element/RemoveElement.js" />
         <option value="$PROJECT_DIR$/27. Remove Element/test.js" />
+        <option value="$PROJECT_DIR$/557. Reverse Words in a String III/ReverseWords.js" />
+        <option value="$PROJECT_DIR$/557. Reverse Words in a String III/test.js" />
       </list>
     </option>
   </component>
@@ -220,12 +242,7 @@
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="20. Valid Parentheses" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="27. Remove Element" type="462c0819:PsiDirectoryNode" />
+              <item name="557. Reverse Words in a String III" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -288,7 +305,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.27. Remove Element/test.js">
+  <component name="RunManager" selected="Mocha.557. Reverse Words in a String III/test.js">
     <configuration name="Palindrome Number.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="$PROJECT_DIR$/Palindrome Number/Palindrome Number.js" working-dir="$PROJECT_DIR$" />
     <configuration name="13. Roman to Integer/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
@@ -312,6 +329,17 @@
       <test-kind>TEST_FILE</test-kind>
       <test-file>$PROJECT_DIR$/27. Remove Element/test.js</test-file>
     </configuration>
+    <configuration name="557. Reverse Words in a String III/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/557. Reverse Words in a String III/test.js</test-file>
+    </configuration>
     <configuration name="67. Add Binary/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -322,17 +350,6 @@
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
       <test-file>$PROJECT_DIR$/67. Add Binary/test.js</test-file>
-    </configuration>
-    <configuration name="88. Merge Sorted Array/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <envs />
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/88. Merge Sorted Array/test.js</test-file>
     </configuration>
     <configuration name="CycleLinkedlist/test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
@@ -347,19 +364,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Palindrome Number.js" />
-      <item index="1" class="java.lang.String" itemvalue="Mocha.88. Merge Sorted Array/test.js" />
-      <item index="2" class="java.lang.String" itemvalue="Mocha.13. Roman to Integer/test.js" />
-      <item index="3" class="java.lang.String" itemvalue="Mocha.CycleLinkedlist/test.js" />
-      <item index="4" class="java.lang.String" itemvalue="Mocha.67. Add Binary/test.js" />
-      <item index="5" class="java.lang.String" itemvalue="Mocha.27. Remove Element/test.js" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.13. Roman to Integer/test.js" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.CycleLinkedlist/test.js" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.67. Add Binary/test.js" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.27. Remove Element/test.js" />
+      <item index="5" class="java.lang.String" itemvalue="Mocha.557. Reverse Words in a String III/test.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Mocha.27. Remove Element/test.js" />
-        <item index="1" class="java.lang.String" itemvalue="Mocha.67. Add Binary/test.js" />
-        <item index="2" class="java.lang.String" itemvalue="Mocha.CycleLinkedlist/test.js" />
-        <item index="3" class="java.lang.String" itemvalue="Mocha.13. Roman to Integer/test.js" />
-        <item index="4" class="java.lang.String" itemvalue="Mocha.88. Merge Sorted Array/test.js" />
+        <item index="0" class="java.lang.String" itemvalue="Mocha.557. Reverse Words in a String III/test.js" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.27. Remove Element/test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.67. Add Binary/test.js" />
+        <item index="3" class="java.lang.String" itemvalue="Mocha.CycleLinkedlist/test.js" />
+        <item index="4" class="java.lang.String" itemvalue="Mocha.13. Roman to Integer/test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +431,7 @@
       <workItem from="1517682960023" duration="5494000" />
       <workItem from="1517690835789" duration="263000" />
       <workItem from="1517692648191" duration="557000" />
-      <workItem from="1517883254773" duration="1438000" />
+      <workItem from="1517883254773" duration="2427000" />
     </task>
     <servers />
   </component>
@@ -443,15 +460,15 @@
     <history-entry file="27__Remove_Element_test_js - 2018.02.05 at 18h 40m 16s.xml">
       <configuration name="27. Remove Element/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
-    <history-entry file="67__Add_Binary_test_js - 2018.02.03 at 11h 42m 13s.xml">
-      <configuration name="67. Add Binary/test.js" configurationId="mocha-javascript-test-runner" />
+    <history-entry file="557__Reverse_Words_in_a_String_III_test_js - 2018.02.06 at 16h 02m 16s.xml">
+      <configuration name="557. Reverse Words in a String III/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
     <history-entry file="67__Add_Binary_test_js - 2018.02.03 at 11h 42m 15s.xml">
       <configuration name="67. Add Binary/test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170254000" />
+    <option name="totallyTimeSpent" value="171243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
@@ -461,7 +478,7 @@
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33618233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33618233" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38694075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -563,17 +580,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/addTwoSum/Tester.js" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Regular Expression Matching/RegularExpressionMatching.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -927,6 +933,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/557. Reverse Words in a String III/ReverseWords.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/557. Reverse Words in a String III/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding />
         </state>
       </provider>
