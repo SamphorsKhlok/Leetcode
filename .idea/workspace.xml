@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71260e29-c460-4fdb-a432-b885d236f12a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/146. LRU Cache/LRU Cache.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/904. Fruit Into Baskets/FruitIntoBaskets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/904. Fruit Into Baskets/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/973. K Closest Points to Origin/K closest point.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/973. K Closest Points to Origin/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/976. Largest Perimeter Triangle/Largest Perimeter Triangle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/976. Largest Perimeter Triangle/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/102. Binary Tree Level Order Traversal/Binary Tree Level.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,17 +19,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/973. K Closest Points to Origin/K closest point.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            <state relative-caret-position="360">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/146. LRU Cache/LRU Cache.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/146. LRU Cache/LRU Cache.js">
+        <entry file="file://$PROJECT_DIR$/102. Binary Tree Level Order Traversal/Binary Tree Level.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="48" column="3" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+            <state relative-caret-position="522">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -73,7 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BinaryCalculator/index.html" />
         <option value="$PROJECT_DIR$/BinaryCalculator/js/binaryCalculator.js" />
         <option value="$PROJECT_DIR$/BinaryCalculator/css/binaryCalculator.css" />
         <option value="$PROJECT_DIR$/3Sum/test.js" />
@@ -124,6 +126,7 @@
         <option value="$PROJECT_DIR$/973. K Closest Points to Origin/K closest point.js" />
         <option value="$PROJECT_DIR$/146. LRU Cache/test.js" />
         <option value="$PROJECT_DIR$/146. LRU Cache/LRU Cache.js" />
+        <option value="$PROJECT_DIR$/102. Binary Tree Level Order Traversal/Binary Tree Level.js" />
       </list>
     </option>
   </component>
@@ -144,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,6 +173,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,6 +199,7 @@
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
     <property name="nodejs.protractor.protractor_package" value="" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
@@ -370,7 +374,8 @@
       <workItem from="1547961924874" duration="2000" />
       <workItem from="1548271906992" duration="154000" />
       <workItem from="1548274028851" duration="822000" />
-      <workItem from="1548906986864" duration="16634000" />
+      <workItem from="1548906986864" duration="16734000" />
+      <workItem from="1549430423006" duration="461000" />
     </task>
     <servers />
   </component>
@@ -407,11 +412,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="228003000" />
+    <option name="totallyTimeSpent" value="228564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26497534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
@@ -421,7 +425,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35783133" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35783133" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41686746" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -557,13 +561,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MochaTestTemplate/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Insert Interval/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -887,24 +884,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/146. LRU Cache/test.js" />
     <entry file="file://$PROJECT_DIR$/973. K Closest Points to Origin/K closest point.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/146. LRU Cache/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        <state relative-caret-position="360">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/146. LRU Cache/LRU Cache.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="48" column="3" lean-forward="true" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+        <state relative-caret-position="567">
+          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/102. Binary Tree Level Order Traversal/Binary Tree Level.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
